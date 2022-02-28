@@ -35,7 +35,7 @@
           value="META-INF/sql/import.sql" />
       <property
           name="jakarta.persistence.jdbc.url"
-          value="jdbc:mysql://localhost:3306/frete?createDatabaseIfNotExist=True" />
+          value="jdbc:mysql://localhost:3307/frete?createDatabaseIfNotExist=True" />
       <property
           name="jakarta.persistence.jdbc.driver"
           value="com.mysql.cj.jdbc.Driver" />
